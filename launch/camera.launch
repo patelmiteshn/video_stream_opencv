@@ -20,8 +20,8 @@
   	<!-- flip the image vertically -->
   	<arg name="flip_vertical" default="false" />
     <!-- force width and height, 0 means no forcing -->
-    <arg name="width" default="0"/>
-    <arg name="height" default="0"/>
+    <arg name="width" default="1920"/>
+    <arg name="height" default="960"/>
   	<!-- if show a image_view window subscribed to the generated stream -->
 	<arg name="visualize" default="false"/>
 
